@@ -1,0 +1,8 @@
+{
+  "name": "Remix PP- AA Logistik Operations - v1",
+  "description": "Intelligent operations, email processing, multi-department task management and case tracking for AA Logistik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
